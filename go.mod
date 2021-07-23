@@ -1,3 +1,3 @@
-module github.com/wowchemy/wowchemy-widget-starter
+module github.com/rodrigoalcarazdelaosa/wowchemy-widget-hero-lottie
 
 go 1.15
