@@ -20,6 +20,8 @@ Wowchemy Widget for adding [Lottie animations](https://lottiefiles.com) and [ani
    weight: 1
 
    title: Hello
+   
+   hero_media: "lottie/notes.json" # Path relative to your `assets/media` folder 
    ---
 
    Welcome to my new widget!
